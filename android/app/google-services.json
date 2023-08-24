@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74992608144",
+    "project_id": "xflttest",
+    "storage_bucket": "xflttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74992608144:android:01c25e3367a0b8ba58c915",
+        "android_client_info": {
+          "package_name": "com.xhope.tracking.xhope_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74992608144-4mdagvig3di8hf4mvhfo6u2kr2at7flb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDad-XKn5-SbMWopTNYoDJynebLBAMVQv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74992608144-4mdagvig3di8hf4mvhfo6u2kr2at7flb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
